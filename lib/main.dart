@@ -15,6 +15,6 @@ class MainApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: AuthMainPage(),
       darkTheme: Darktheme.Dark,
-    );
+    );  
   }
 }
